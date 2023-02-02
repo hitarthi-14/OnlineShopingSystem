@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Cart</title>
+</head>
+<body>
+This is the body part of cart.
+commit1
+commit2
+commit3
+</body>
+</html>
