@@ -1,6 +1,7 @@
 <html>
 <head>
-<title>Contact us</title>
+<title>Contact us
+</title>
 </head>
 <body>
 This is the body part.
